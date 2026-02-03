@@ -1,0 +1,14 @@
+# Docker
+*.log
+*.pid
+
+# Kafka runtime data
+data/
+logs/
+kafka-logs/
+zookeeper/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
